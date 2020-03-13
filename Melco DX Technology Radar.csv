@@ -1,48 +1,48 @@
 name,quadrant,ring,isNew,description
 CI\CD,Techniques,Adopt,FALSE,"<p><strong><a href=""https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment"">CI/CD</a></strong> a classic approach to Continious integration and Deployment"
-BDD,Techniques,Trial,FALSE,
-TDD,Techniques,Assess,TRUE,
-DDD,Techniques,Trial,TRUE,
-Scrum,Techniques,Adopt,FALSE,
-Agile,Techniques,Adopt,FALSE,
+BDD,Techniques,Trial,FALSE,BDD
+TDD,Techniques,Assess,TRUE,TDD
+DDD,Techniques,Trial,TRUE,DDD
+Scrum,Techniques,Adopt,FALSE,Scrum
+Agile,Techniques,Adopt,FALSE,Agile
 Linux,Platforms,Adopt,FALSE,Most of DX backend infrastructure is powered by Linux
 Android,Platforms,Adopt,FALSE,MelcoClub App runs on Android as a target OS. Android is considered as a mandatory ecosystems of MelcoApp presence.
 Windows,Platforms,Hold,FALSE,Some of DX clients and legacy backend are powere by Windows. 
 iOS,Platforms,Adopt,FALSE,MelcoClub App runs on iOS as a target OS. iOS is considered as a mandatory ecosystems of MelcoApp presence.
-Hadoop,Tools,Adopt,FALSE,
-MongoDB,Tools,Adopt,FALSE,
-CouchDB,Tools,Adopt,FALSE,
-MSSQL,Tools,Adopt,FALSE,
-Yellowbrick,Tools,Trial,FALSE,
-Docker,Tools,Adopt,FALSE,
-Github,Tools,Adopt,FALSE,
-Gitlab,Tools,Adopt,FALSE,
-Selenium,Tools,Adopt,FALSE,
-Junit,Tools,Adopt,FALSE,
-Jmeter,Tools,Adopt,FALSE,
-Jenkins,Tools,Hold,FALSE,
-Terraform,Tools,Adopt,FALSE,
-Kubernetes,Tools,Adopt,FALSE,
-SonarQube,Tools,Adopt,FALSE,
-Code Climate,Tools,Assess,TRUE,
-Gitlab-CI,Tools,Adopt,FALSE,
-Ambassador,Tools,Adopt,FALSE,
-Istio,Tools,Adopt,FALSE,
-MySQL,Tools,Assess,FALSE,
-Helm,Tools,Assess,FALSE,
-Appium,Tools,Adopt,FALSE,
-Swift,languages-and-frameworks,Adopt,FALSE,
-Objective-C,languages-and-frameworks,Hold,FALSE,
-Java,languages-and-frameworks,Adopt,FALSE,
-JavaScript,languages-and-frameworks,Adopt,FALSE,
-Node.Js,languages-and-frameworks,Adopt,FALSE,
-Spring,languages-and-frameworks,Adopt,FALSE,
-Golang,languages-and-frameworks,Adopt,FALSE,
-PHP,languages-and-frameworks,Hold,FALSE,
-Python,languages-and-frameworks,Adopt,FALSE,
-HTML5,languages-and-frameworks,Adopt,FALSE,
-CSS,languages-and-frameworks,Adopt,FALSE,
-Kotlin,languages-and-frameworks,Adopt,TRUE,
+Hadoop,Tools,Adopt,FALSE,Hadoop
+MongoDB,Tools,Adopt,FALSE,MongoDB
+CouchDB,Tools,Adopt,FALSE,CouchDB
+MSSQL,Tools,Adopt,FALSE,MSSQL
+Yellowbrick,Tools,Trial,FALSE,Yellowbrick
+Docker,Tools,Adopt,FALSE,Docker
+Github,Tools,Adopt,FALSE,Github
+Gitlab,Tools,Adopt,FALSE,Gitlab
+Selenium,Tools,Adopt,FALSE,Selenium
+Junit,Tools,Adopt,FALSE,Junit
+Jmeter,Tools,Adopt,FALSE,Jmeter
+Jenkins,Tools,Hold,FALSE,Jenkins
+Terraform,Tools,Adopt,FALSE,Terraform
+Kubernetes,Tools,Adopt,FALSE,Kubernetes
+SonarQube,Tools,Adopt,FALSE,SonarQube
+Code Climate,Tools,Assess,TRUE,Code Climate
+Gitlab-CI,Tools,Adopt,FALSE,Gitlab-CI
+Ambassador,Tools,Adopt,FALSE,Ambassador
+Istio,Tools,Adopt,FALSE,Istio
+MySQL,Tools,Assess,FALSE,MySQL
+Helm,Tools,Assess,FALSE,Helm
+Appium,Tools,Adopt,FALSE,Appium
+Swift,languages-and-frameworks,Adopt,FALSE,Swift
+Objective-C,languages-and-frameworks,Hold,FALSE,Objective-C
+Java,languages-and-frameworks,Adopt,FALSE,Java
+JavaScript,languages-and-frameworks,Adopt,FALSE,JavaScript
+Node.Js,languages-and-frameworks,Adopt,FALSE,Node.JS
+Spring,languages-and-frameworks,Adopt,FALSE,Spring
+Golang,languages-and-frameworks,Adopt,FALSE,Golang
+PHP,languages-and-frameworks,Hold,FALSE,PHP
+Python,languages-and-frameworks,Adopt,FALSE,Python
+HTML5,languages-and-frameworks,Adopt,FALSE,HTML5
+CSS,languages-and-frameworks,Adopt,FALSE,CSS
+Kotlin,languages-and-frameworks,Adopt,TRUE,Kotlin
 ,,,,
 ,,,,
 ,,,,
